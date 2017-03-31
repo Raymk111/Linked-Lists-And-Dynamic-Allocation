@@ -46,7 +46,7 @@ struct contacts
 
 void openFile()
 {
-    fptr = fopen("/Users/MichaelNaughton/Documents/CSIT/Programming Labs/Assignment 19/contacts.txt", "r");
+    fptr = fopen("contacts.txt", "r");
     if(fptr==NULL)
     {
         printf("Error opening File");
