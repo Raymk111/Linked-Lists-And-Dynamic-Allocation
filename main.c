@@ -1,11 +1,3 @@
-//
-//  main.c
-//  Assignment 19
-//
-//  Created by Michael Naughton on 21/02/2017.
-//  Copyright © 2017 Michael Naughton. All rights reserved.
-//
-
 #include <stdio.h>
 #include "stdlib.h"
 #include "string.h"
